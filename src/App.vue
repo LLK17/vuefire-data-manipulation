@@ -98,11 +98,13 @@ inputField{
 #grid{
   display: grid;
   grid-template-columns: auto auto auto;
+  gap: 1em;
 }
 
 #db-item{
   border: 1px solid #35495e;
   align-content: center;
+  padding: .6em;
 }
 
 .values{
